@@ -13,7 +13,7 @@ knitr::opts_chunk$set(
 # farsFunctions
 
 <!-- badges: start -->
-[![Travis build status](https://travis-ci.org/tomaszplewka/farsFunctions.svg?branch=master)](https://travis-ci.org/tomaszplewka/farsFunctions)
+[![Build Status](https://travis-ci.org/tomaszplewka/farsFunctions.svg?branch=master)](https://travis-ci.org/tomaszplewka/farsFunctions)
 <!-- badges: end -->
 
 The package is able to summarize an accident data within a certain time range with `fars_summarize_years` function as well as create a map of accidents in a particular state with `fars_map_state` function. Additionally, the package consists of a few auxiliary functions.
