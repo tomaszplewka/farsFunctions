@@ -1,20 +1,4 @@
----
-output: github_document
----
-
-```{r, include = FALSE}
-knitr::opts_chunk$set(
-  collapse = TRUE,
-  comment = "#>",
-  fig.path = "man/figures/README-",
-  out.width = "100%"
-)
-```
 # farsFunctions
-
-<!-- badges: start -->
-[![Build Status](https://travis-ci.org/tomaszplewka/farsFunctions.svg?branch=master)](https://travis-ci.org/tomaszplewka/farsFunctions)
-<!-- badges: end -->
 
 ## Travis badge
 https://travis-ci.org/tomaszplewka/farsFunctions.svg?branch=master
